@@ -1,10 +1,4 @@
 responses:
   -
     path: "/"
-    message: "index"
-  - 
-    path: "/hoge"
-    message: "hoge"
-  - 
-    path: "/fuga"
-    message: "fuga"
+    message: "kosen10sは2010年になぜか高専に入学しちゃった人の集まる場所です。 2010年に高専に入学した高専OB/OGならもちろん、誰でも参加できます。 普段は同い年どうし、slack(チャット)でワイワイしています。 また定期的にイベントも実施しています。"
